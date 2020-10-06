@@ -10033,7 +10033,7 @@ p.lead {
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -10136,4 +10136,16 @@ section.resume-section .resume-section-content {
 
 #title-bar-color {
   color: #7335ee;
+}
+
+div.bg-wrapper {
+  background: url("https://raw.githubusercontent.com/StartBootstrap/startbootstrap-new-age/master/img/bg-pattern.png"), linear-gradient(to right, #e1d4e8, #94d2a7);
+}
+
+.resume-section-content ul {
+ font-size: 1.5rem;
+}
+
+.resume-section-content p {
+  font-size: 1.5rem;
 }
