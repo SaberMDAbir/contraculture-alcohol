@@ -10138,8 +10138,13 @@ section.resume-section .resume-section-content {
   color: #7335ee;
 }
 
-div.bg-wrapper {
+.sm-note {
+  font-size: 1rem !important;
+}
+
+div.bg-wrapper  {
   background: url("https://raw.githubusercontent.com/StartBootstrap/startbootstrap-new-age/master/img/bg-pattern.png"), linear-gradient(to right, #e1d4e8, #94d2a7);
+  /* mix-blend-mode: difference; */
 }
 
 .resume-section-content ul {
